@@ -9,9 +9,9 @@
 ### 🚀 **Technical Skills:**
 
 - 💻 **Programming Languages:** Python, Java, C, C++, SQL, Assembly
-- 🌐 **Web Development:** HTML, CSS, JavaScript, React
+- 🌐 **Web Development:** HTML, CSS, JavaScript
 - 📊 **Data Science & Machine Learning:** NumPy, Pandas, Scikit-learn, Natural Language Processing (NLP) Techniques
-- 🖥️ **Operating Systems:** Linux, Shell Scripting, Thread Management, Paging, Socket Programming
+- 🖥️ **Operating Systems:** Linux, Shell Scripting, Thread Management, Memory Paging, Socket Programming
 - 🗄️ **Database Management:** MySQL
 - 🔧 **Version Control:** Git, GitHub
 - 🛠️ **Development Tools:** Docker, Jupyter Notebooks, Visual Studio Code
